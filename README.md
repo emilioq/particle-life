@@ -1,4 +1,4 @@
-Game of life using particles.  
+Game of life using particles. Simulates organic movement.  
 https://imgur.com/a/w7FvyZg  
   
 Inspired by a CodeParade video:  
