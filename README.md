@@ -1,4 +1,4 @@
-Cellular automation, game of life using particles.  
+Game of life using particles.  
 https://imgur.com/a/w7FvyZg  
   
 Inspired by a CodeParade video:  
